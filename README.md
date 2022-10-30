@@ -33,5 +33,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-
-[def]: file:///C:/Users/zy_ya_000/Desktop/proje.PNG
+[Kodluyoruz](www.patika.dev)
