@@ -1,7 +1,7 @@
 # Kodluyoruz Ilk Repo
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![ ](file:///C:/Users/zy_ya_000/Desktop/proje.PNG)
+![ ][[https://www.hizliresim.com/418idkx görsel]]
 
 ## Installation
 
@@ -31,3 +31,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+
+
+[def]: file:///C:/Users/zy_ya_000/Desktop/proje.PNG
