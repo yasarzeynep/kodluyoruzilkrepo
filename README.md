@@ -1,7 +1,7 @@
 # Kodluyoruz Ilk Repo
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![ ][[file:///C:/Users/zy_ya_000/Desktop/proje.PNG]]
+![ ][https://resmim.net/cdn/2022/10/31/QRPri.png]
 
 ## Installation
 
