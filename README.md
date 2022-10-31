@@ -33,4 +33,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Kodluyoruz
-[Patika](www.patika.dev)
+[Patika](https://www.patika.dev/tr)
